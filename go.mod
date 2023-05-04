@@ -4,7 +4,6 @@ go 1.20
 
 require (
 	github.com/99designs/gqlgen v0.17.30
-	github.com/go-chi/chi v1.5.4
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/golang-migrate/migrate v3.5.4+incompatible
 	github.com/vektah/gqlparser/v2 v2.5.1
